@@ -1,0 +1,3 @@
+This project is a java desktop application for buss booking.
+Is build with maven and contain simple tasks.
+Uses the ee paterns desing from database encapsulation and the layerization using interfaces.
